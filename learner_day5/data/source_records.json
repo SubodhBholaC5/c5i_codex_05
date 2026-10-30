@@ -1,0 +1,9 @@
+{
+  "version": "orders-2026-10-01-v1",
+  "records": {
+    "ORD-1042": {"status": "shipped", "estimated_delivery": "2026-11-02", "refund_eligible": false, "refund_reason": "shipment_in_transit"},
+    "ORD-1043": {"status": "delivered", "estimated_delivery": "2026-10-26", "refund_eligible": true, "refund_reason": "delivered_within_return_window"},
+    "ORD-1044": {"status": "processing", "estimated_delivery": null, "refund_eligible": null, "refund_reason": "not_evaluated"},
+    "ORD-1045": {"status": "shipped", "estimated_delivery": "2026-11-05", "refund_eligible": false, "refund_reason": "shipment_in_transit"}
+  }
+}
